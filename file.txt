@@ -1,2 +1,4 @@
 Un nou feature
+<<<<<<< HEAD
 O schimbare adusa din branch-ul new-branch
+
